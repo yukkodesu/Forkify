@@ -15,7 +15,7 @@ class RecipeView {
     const markup = `
           <div class="spinner">
             <svg>
-              <use href="${icons}g#icon-loader"></use>
+              <use href="${icons}#icon-loader"></use>
             </svg>
           </div>
         `;
